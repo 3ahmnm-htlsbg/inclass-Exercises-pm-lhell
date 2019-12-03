@@ -8,11 +8,6 @@
 
 Assets/AssetStoreTools*
 
-#playMaker
-Assets/PlayMaker/
-Assets/Gizmos/
-Assets/Plugins/
-
 # Visual Studio cache directory
 .vs/
 
